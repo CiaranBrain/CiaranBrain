@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiaranBrain
 - 👀 I’m interested in ... Learning how to code 
-- 🌱 I’m currently learning ... HTML, CSS, Java 
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
