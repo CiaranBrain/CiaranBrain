@@ -3,6 +3,8 @@
 #### An aspiring developer. Currently honing my skills in front-end development and eager to explore back-end technologies.
 
 ### About Me
+👀 I’m interested in... Well, learning how to code, of course!
+
 Currently, I'm sharpening my skills in front-end development, but my curiosity knows no bounds—I'm itching to dive into back-end technologies and beyond!
 
 ### Technical Toolbox 🛠️
@@ -23,8 +25,7 @@ I am dedicated to securing a rewarding career in the field of programming, where
 Always on the lookout for new opportunities to expand my coding horizons and stay in tune with the latest trends in web development.
 
 ### Let's Connect!
-👀 I’m interested in... Well, learning how to code, of course!
-🌱 Currently learning... HTML, CSS, JavaScript, Python, Django, PostgreSQL
+
 Feel free to reach out and let's chat code! 🚀
 
 💼 LinkedIn: [Ciaran Linkedin](https://www.linkedin.com/in/ciaranbrain/)
