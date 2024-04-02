@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Ciaran
-An enthusiastic aspiring developer diving headfirst into the wild world of coding! Currently honing my skills in front-end development and eager to explore back-end technologies.
+An enthusiastic aspiring developer diving headfirst into the wild world of coding! Currently developing my skills in front-end development and eager to explore back-end technologies.
 
 
 ## About Me
