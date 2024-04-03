@@ -13,7 +13,7 @@ Currently, I'm sharpening my skills in front-end development, but my curiosity k
 - **Databases (Next on the Agenda):** PostgreSQL (Ready to Be Explored)
 
 ## Achievements
-- Completed the Full Stack Web Development course with Code Institute.
+- Completed the Full Stack Web Development Bootcamp course with Code Institute.
 
 ## Goals
 I am dedicated to securing a rewarding career in the field of programming, where I can leverage my passion for technology and my growing skill set to contribute to innovative projects and make a meaningful impact.
