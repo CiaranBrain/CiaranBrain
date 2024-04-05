@@ -5,12 +5,12 @@ An enthusiastic aspiring developer diving headfirst into the wild world of codin
 ## About Me
 👀 I’m interested in... Well, learning how to code, of course!
 
-Currently, I'm sharpening my skills in front-end development, but my curiosity knows no bounds—I'm itching to dive into back-end technologies and beyond!
+Currently, I'm improving my skills in front-end development, but my curiosity knows no bounds! I'm itching to dive into back-end technologies and beyond!
 
 ## Technical Toolbox 🛠️
 - **Front-End Development:** HTML5, CSS3, JavaScript
 - **Back-End Development (Work in Progress):** Python, Django (Currently in Learning Mode)
-- **Databases (Next on the Agenda):** PostgreSQL (Ready to Be Explored)
+- **Next on the Agenda:** PostgreSQL, C#, React 
 
 ## Achievements
 - Completed the Full Stack Web Development Bootcamp course with Code Institute.
