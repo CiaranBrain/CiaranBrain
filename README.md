@@ -1,37 +1,38 @@
-## 👋 Hey there, I'm Ciaran
-An enthusiastic aspiring developer diving headfirst into the wild world of coding! Currently developing my skills in front-end development and eager to explore back-end technologies.
+## 👋 Hey there, I'm Ciaran 
+I'm an aspiring developer! Currently developing my skills in front-end development but eager to explore back-end technologies and frameworks.
 
 
-## About Me
-👀 I’m interested in... Well, learning how to code, of course!
+## About Me 👀
+I’m interested in... 
 
-Currently, I'm improving my skills in front-end development, but my curiosity knows no bounds! I'm itching to dive into back-end technologies and beyond!
+Gaming :space_invader: I'm a big fan of singleplayer RPG's [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) :japanese_goblin: being my most rewarding experience.
+But i also enjoy FPS games like [CS](https://www.counter-strike.net/cs2) :gun: and
+did i mention 2D Sandbox games like [Terraria](https://terraria.org) :joystick:
+i also enjoy mountian biking :bike:	(when its sunny :sun_with_face:)
+
+Currently, I'm trying to improve my skills in front-end development, but i understand it takes a lot of practice, trails and errors to improve your skills, but i will get there eventually! I'm also super interested into checking out back-end technologies and more frameworks once i understand the basic ones first!
 
 ## Technical Toolbox 🛠️
 - **Front-End Development:** HTML5, CSS3, JavaScript
 - **Back-End Development (Work in Progress):** Python, Django (Currently in Learning Mode)
-- **Next on the Agenda:** PostgreSQL, C#, React 
+- **Next on the Agenda:** PostgreSQL, C#, React, Node.js and a bunch more. 
 
 ## Achievements
 - Completed the Full Stack Web Development Bootcamp course with Code Institute.
 
 ## Goals
-I am dedicated to securing a rewarding career in the field of programming, where I can leverage my passion for technology and my growing skill set to contribute to innovative projects and make a meaningful impact.
+I want to grow my skill set to be able to create 
 
 ## My Projects
-**[Recipeze](https://github.com/CiaranBrain/Recipeze):** My first full-stack adventure, where I dabbled with HTML, CSS, JavaScript, Python, Django, and sprinkled in some Bootstrap using ElephantSQL for database management, and use Cloudinary for image storage.
+**[Recipeze](https://github.com/CiaranBrain/Recipeze)** Is was my first full-stack project, where I used HTML, CSS, JavaScript, Python, Django, and used some Bootstrap. While using ElephantSQL for database management, and using Cloudinary for image storage.
 
 ## What's Next?
-Always on the lookout for new opportunities to expand my coding horizons and stay in tune with the latest trends in web development.
+Always on the lookout for new opportunities to expand my coding horizons , i want to nextwork out and use the comunity more for questions and help and just general coding chats.
 
 ## Let's Connect!
 
 Feel free to reach out and let's chat code! 🚀
 
-💼 LinkedIn: [Ciaran Linkedin](https://www.linkedin.com/in/ciaranbrain/)
-<!---
-CiaranBrain/CiaranBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 LinkedIn: [Ciaran Brain](https://www.linkedin.com/in/ciaranbrain/)
 
 
